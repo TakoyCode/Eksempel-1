@@ -66,12 +66,12 @@ body {
 
 .grid {
     display: grid;
-    grid-template-columns: repeat(2, auto);
+    grid-template-columns: repeat(2, 520px);
     width: auto;
 }
 
 .gridauto {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 520px 520px;
     width: auto;
 }
